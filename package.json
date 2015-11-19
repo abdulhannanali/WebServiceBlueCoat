@@ -1,0 +1,19 @@
+{
+  "name": "web-service-blue-coat",
+  "version": "1.0.0",
+  "description": "Web Service for site details by scraping blue coat. I don't know if it's illegal or legal but I am using it mainly for educational and welfare purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin"
+  },
+  "keywords": [
+    "web",
+    "service"
+  ],
+  "author": "Hannan Ali",
+  "license": "MIT"
+}
